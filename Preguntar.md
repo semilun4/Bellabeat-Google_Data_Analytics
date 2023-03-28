@@ -13,7 +13,12 @@ La intención de monitorear indicadiores biométricos, puede tener intenciones d
 Bellabeat ofrece varios productos enfocados especialmente en la salud de las mujeres, por lo que les interesa emplear 
 A través de los datos de una herramienta de monitoreo de actividad física, se busca información que sustente una estrategia de marketing de alto nivel, basandonos en algunos ficheros públicos.
 
-Dado que Bellabeat ofrece productos innovadores como botellas, pulseras, collares o clips es difícil poder compararlo con otros dispositivos. 
+Dado que Bellabeat ofrece productos innovadores como botellas, pulseras, collares o clips es difícil poder compararlo con otros dispositivos. Se tomará como referencia el uso de smartwatch para describir un poco el mercado en el que se encuentra la empresa.
+
+Se proyecta que el mercado global tan sólo de relojes inteligentes crezca de $22,02 mil millones en 2021 a $58,21 mil millones para 2028, según el reporte de Fortune Business Insights. Incluso antes de la pandemia de COVID-19 estos dispositivos realizaban algunas mediciones médicas, más allá de sólo ser contadores de pasos, midiendo quema de calorías, ritmo cardiaco, niveles de glucosa, estrés, azúcar, etc. El incremento esperado, se puede observar mejor en la siguiente gráfica.
+
+![imagen1](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/descarga.png)
+
 
 ## Fuentes
 - Reporte sobre el incremento de ventas de dispositivos inteligentes, en especial smartwatch por 
