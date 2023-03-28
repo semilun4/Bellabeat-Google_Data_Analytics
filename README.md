@@ -25,7 +25,7 @@ En 2016, Bellabeat ya había inaugurado oficinas en todo el mundo y lanzado múl
 - [Preparar](https://github.com/semilun4)
 - [Procesar](https://github.com/semilun4)
 - [Analizar](https://github.com/semilun4)
-- [Compartir][https://github.com/semilun4]
+- [Compartir](https://github.com/semilun4)
 - [Actuar](https://github.com/semilun4)
 
 
