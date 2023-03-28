@@ -25,4 +25,4 @@ Se propone usar los siguientes recursos en el proyecto.
 - Reporte sobre el incremento de ventas de dispositivos smartwatch por 
   [Fortune Business Insights](https://www.fortunebusinessinsights.com/smartwatch-market-106625)
 - Datos públicos de [FitBit](https://www.kaggle.com/datasets/arashnic/fitbit)
--  
+- Artículo sobre la relación entre el ciclo menstrual y la actividad física por [Xanne A.K. Janse de Jonge](https://paulogentil.com/pdf/Effects%20of%20the%20menstrual%20cycle%20on%20exercise%20performance.pdf)
