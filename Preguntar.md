@@ -21,6 +21,8 @@ Se proyecta que el mercado global tan sólo de relojes inteligentes crezca de $2
 
 
 ## Fuentes
-- Reporte sobre el incremento de ventas de dispositivos inteligentes, en especial smartwatch por 
+Se propone usar los siguientes recursos en el proyecto.
+- Reporte sobre el incremento de ventas de dispositivos smartwatch por 
   [Fortune Business Insights](https://www.fortunebusinessinsights.com/smartwatch-market-106625)
-- Datos públicos de [FitBit](https://www.kaggle.com/datasets/arashnic/fitbit) recomendados por Sršen. 
+- Datos públicos de [FitBit](https://www.kaggle.com/datasets/arashnic/fitbit)
+-  
