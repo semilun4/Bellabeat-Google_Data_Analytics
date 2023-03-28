@@ -21,7 +21,7 @@ En 2016, Bellabeat ya había inaugurado oficinas en todo el mundo y lanzado múl
 *	**Spring**: Es una botella de agua que hace el seguimiento diario del consumo de agua mediante el uso de tecnología inteligente para garantizar la hidratación adecuada a lo largo del día. La botella Spring se conecta a la aplicación Bellabeat para hacer el seguimiento de los niveles de hidratación.
 
 ### Proceso de análisis
-- [Preguntar](https://github.com/semilun4)
+- [Preguntar]([https://github.com/semilun4](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Preguntar))
 - [Preparar](https://github.com/semilun4)
 - [Procesar](https://github.com/semilun4)
 - [Analizar](https://github.com/semilun4)
