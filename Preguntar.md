@@ -13,7 +13,7 @@ La intención de monitorear indicadiores biométricos, puede tener intenciones d
 Bellabeat ofrece varios productos enfocados especialmente en la salud de las mujeres, por lo que les interesa emplear 
 A través de los datos de una herramienta de monitoreo de actividad física, se busca información que sustente una estrategia de marketing de alto nivel, basandonos en algunos ficheros públicos.
 
-Sólo enfocandonos en 
+Dado que Bellabeat ofrece productos innovadores como botellas, pulseras, collares o clips es difícil poder compararlo con otros dispositivos. 
 
 ## Fuentes
 - Reporte sobre el incremento de ventas de dispositivos inteligentes, en especial smartwatch por 
