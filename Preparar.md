@@ -16,5 +16,5 @@ A pesar de que pareciera tener mucha información para trabajar, el número de r
 
 ## Otras fuentes de datos
 
-Se buscó algún otro dataset, que nos aportara información sobre temas como dispositivos inteligentes, salud, menstruación o impacto de actividad fisica en mujeres; sin embargo, no existen fuentes p+ublicas que nos ayuden a completar este análisis. 
+Se buscó algún otro dataset, que nos aportara información sobre temas como dispositivos inteligentes, salud, menstruación o impacto de actividad fisica en mujeres; sin embargo, no existen fuentes públicas que nos ayuden a completar este análisis. 
 
