@@ -43,4 +43,4 @@ Entonces, al probar combinaciones con estas variables, obtenemos como mejor vers
 
 Cabe mencionar que no tiene los mejores estadísticos, pero por la calidad y cantidad de los datos, es estadísticamente lo más completo que se puede desarrollar.
 
-
+Los códigos de todo este proceso, se pueden encontrar en este repositorio en la [siguiente liga](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/tree/main/syntax). 
