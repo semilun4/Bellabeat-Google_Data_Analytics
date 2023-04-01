@@ -6,8 +6,8 @@ Este conjunto de datos de Kaggle contiene el seguimiento de la actividad física
 ## Credibilidad de los datos FitBit
 A pesar de que pareciera tener mucha información para trabajar, el número de registros ya nos crea limitaciones. Se verificó con el sistema ROCCC la credibilidad.
 
-- [x] Confiables: No cumlen este aspecto, puesto que no tenemos una explicación metodologica clara.
-- [x] Originales: No es un conjunto de datos original, pues no tenemos una publicación confiable por parte de FitBit.
-- [x] Integrales: No cumplen con ser integrales, porque no hay información sobre los participantes, como sexo, edad, estado de salud, etc. Esto podría significar que los datos no fueron aleatorizados. Si los datos están sesgados, los conocimientos del análisis serán injustos para todo tipo de personas.
-- [x] Actuales: Tampoco se cumple, porque la recolección se realizó en 2016 y es posible que no represente el mercado actual.
-- [x] Citados: No contamos con una fuente seria, para considerar esta característica.
+- [ ] Confiables: No cumlen este aspecto, puesto que no tenemos una explicación metodologica clara.
+- [ ] Originales: No es un conjunto de datos original, pues no tenemos una publicación confiable por parte de FitBit.
+- [ ] Integrales: No cumplen con ser integrales, porque no hay información sobre los participantes, como sexo, edad, estado de salud, etc. Esto podría significar que los datos no fueron aleatorizados. Si los datos están sesgados, los conocimientos del análisis serán injustos para todo tipo de personas.
+- [ ] Actuales: Tampoco se cumple, porque la recolección se realizó en 2016 y es posible que no represente el mercado actual.
+- [ ] Citados: No contamos con una fuente seria, para considerar esta característica.
