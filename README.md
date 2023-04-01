@@ -1,4 +1,4 @@
-# Bellabeat-Google_Data_Analytics
+# Bellabeat Google Data Analytics
 
 En este repositorio, se encuentra el despliegue del caso práctico para la certificación de Análisis de Datos brindada por Google.
 
