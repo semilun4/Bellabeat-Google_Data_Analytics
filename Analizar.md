@@ -30,6 +30,11 @@ Ahora, si creamos unas cuantas variables extra para tratar de hacer alguna regre
 - BoolVeryMin, una variable booleana para puntuar a las personas que realicen actividad intensa por más tiempo que la media.
 - - BoolVeryDist, una variable booleana para puntuar a las personas que realicen actividad intensa por más distancia que el promedio.
 
+## Modelo Propuesto
+
+Se seleccionan algunas variables para probar un modelo. Ahora sí, podemos ver más fácilmente la matriz de correlación.
+
+![Matriz de correlación](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/doc/model_cor.png)
 
 
 
