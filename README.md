@@ -23,7 +23,7 @@ En 2016, Bellabeat ya había inaugurado oficinas en todo el mundo y lanzado múl
 ### Proceso de análisis
 - [Preguntar](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Preguntar.md)
 - [Preparar](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Preparar.md)
-- [Procesar](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Procesar.md)
+- [Procesar](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Procesar.Rmd)
 - [Analizar](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Analizar.md)
 - [Compartir](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Compartir.md)
 - [Actuar](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/Actuar.md)
