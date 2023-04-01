@@ -1,4 +1,4 @@
-# Objetivo
+# Fase I: Preguntar
 
 Sršen te pide que analices los datos de uso de los dispositivos inteligentes para saber cómo usan los consumidores los dispositivos inteligentes que no son de Bellabeat. 
 Después, quiere que selecciones un producto Bellabeat para aplicar estos conocimientos en tu presentación. Estas preguntas orientarán tu análisis:
