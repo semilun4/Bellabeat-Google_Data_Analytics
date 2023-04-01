@@ -34,7 +34,13 @@ Ahora, si creamos unas cuantas variables extra para tratar de hacer alguna regre
 
 Se seleccionan algunas variables para probar un modelo. Ahora sí, podemos ver más fácilmente la matriz de correlación.
 
-![Matriz de correlación](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/doc/model_cor.png)
+![Matriz de correlación](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/doc/model_corr.png)
+![Gráfico de correlación](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/doc/correlacion_v2.png)
 
+Entonces, al probar combinaciones con estas variables, obtenemos como mejor versión la siguiente.
+
+![Modelo final](https://github.com/semilun4/Bellabeat-Google_Data_Analytics/blob/main/doc/model_resultados.png)
+
+Cabe mencionar que no tiene los mejores estadísticos, pero por la calidad y cantidad de los datos, es estadísticamente lo más completo que se puede desarrollar.
 
 
